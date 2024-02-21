@@ -1,4 +1,6 @@
-## Protótipo de aplicativo que auxilia na interpretação das expressões faciais das pessoas com as quais os autistas interagem. Utilizando técnicas de processamento de imagem, o aplicativo é 
+## Protótipo de aplicativo 
+
+que auxilia na interpretação das expressões faciais das pessoas com as quais os autistas interagem. Utilizando técnicas de processamento de imagem, o aplicativo é 
 
 capaz de classificar diferentes expressões, como felicidade, tristeza e raiva etc...
 
